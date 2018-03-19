@@ -5,6 +5,7 @@ AILab database :
 https://inha0-my.sharepoint.com/:f:/g/personal/kosehy1_inha_edu/EvagylVYmH1CmTzORkphlnsBG_okODVsw9exEpH3UIXFSQ?e=hjPRuV
 
 초보자에게 추천하는 책
+
 한글판 : 신경망 첫걸음
 영문판 : Make Your Own Neural Network
 
