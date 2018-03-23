@@ -1,9 +1,6 @@
 # DeepLearningForBeginners
 Deep Learning For Begineers
 
-AILab database : 
-https://inha0-my.sharepoint.com/:f:/g/personal/kosehy1_inha_edu/EvagylVYmH1CmTzORkphlnsBG_okODVsw9exEpH3UIXFSQ?e=hjPRuV
-
 초보자에게 추천하는 책
 
 한글판 : 신경망 첫걸음
@@ -33,3 +30,9 @@ http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html
 
 파이썬수업 강의노트
 https://drive.google.com/open?id=1tKFASGURZLW_X_4CNfEMpv9K6puJjXyt
+
+통계 정리
+http://students.brown.edu/seeing-theory/#firstPage
+
+최성준-최신논문
+http://www.edwith.org/
