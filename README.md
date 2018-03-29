@@ -36,3 +36,6 @@ http://students.brown.edu/seeing-theory/#firstPage
 
 최성준-최신논문
 http://www.edwith.org/
+
+테리가 간추린 딥러닝 부분 stae of the arts 논문들(2012 - 2017.10 까지)
+https://github.com/terryum/awesome-deep-learning-papers
