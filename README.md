@@ -20,6 +20,9 @@ http://docs.likejazz.com/deep-learning-for-nlp/
 딥러닝/머신러닝 관련 용어 모음집
 https://docs.google.com/spreadsheets/d/1ccwGiC01X-gs3PPcXPUz67W9rS6l994LD4AL18KF1_0/edit#gid=0
 
+CNN Network
+https://www.youtube.com/watch?v=WCUNPb-5EYI&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa
+
 GAN 관련 링크
 http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html
 http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html
